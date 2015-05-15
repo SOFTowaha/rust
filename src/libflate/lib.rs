@@ -7,7 +7,7 @@
 // <LICENSE-MIT or http://opensource.org/licenses/MIT>, at your
 // option. This file may not be copied, modified, or distributed
 // except according to those terms.
-
+//
 //! Simple [DEFLATE][def]-based compression. This is a wrapper around the
 //! [`miniz`][mz] library, which is a one-file pure-C implementation of zlib.
 //!
